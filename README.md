@@ -1,16 +1,16 @@
-### Hi there 👋
+# O mnie:
 
-<!--
-**karozm/karozm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Obecnie jestem częścią drużyny Count IT pracującej nad aplikacją Count IT, umożliwiającą dbanie o zdrowy tryb życia. 
 
-Here are some ideas to get you started:
+## Teraz kilka losowych rzeczy:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Filmy barbie:
+
++ 'Barbie and the Three Musketeers' (2009)
++ 'Barbie Fairytopia: Mermaidia' (2006)
++ 'Barbie as the Island Princess' (2007)
++ 'Barbie and the Diamond Castle' (2008)
++ 'Barbie: Fairytopia' (2005)
+
+
+
