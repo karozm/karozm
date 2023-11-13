@@ -1,6 +1,6 @@
 # O mnie:
 
-Obecnie jestem częścią drużyny Count IT pracującej nad aplikacją Count IT, umożliwiającą dbanie o zdrowy tryb życia. 
+Obecnie jestem częścią drużyny Count IT pracującej nad aplikacją Count IT, umożliwiającą dbanie o zdrowy tryb życia. Mam 19 lat (jeszcze), lubię koty i spanie.
 
 ## Teraz kilka losowych rzeczy:
 
