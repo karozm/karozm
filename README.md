@@ -13,9 +13,9 @@ Filmy barbie:
 + 'Barbie: Fairytopia' (2005)
 
 
-## Link do mojej super stronki:
 
-![link](https://karozm.github.io/)
+
+[link do mojej super strony](https://karozm.github.io/)
 
 
 
