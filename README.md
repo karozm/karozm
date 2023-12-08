@@ -17,5 +17,9 @@ Filmy barbie:
 
 [link do mojej super strony](https://karozm.github.io/)
 
+[link do forka](https://github.com/karozm/SyncTalk)
+
+[link do artykułu](https://paperswithcode.com/paper/synctalk-the-devil-is-in-the-synchronization)
+
 
 
